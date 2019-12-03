@@ -1,0 +1,66 @@
+访问 新手礼包
+
+17685482
+
+
+
+ZRANGE wallet_app_database_wallet:energy:rank 0 -1 WITHSCORES
+
+ZREM wallet_app_database_wallet:energy:rank 17685482
+
+
+1640240
+
+dg:today:real:produce
+{"type":"connect", "message":"杰大哥"}
+
+v1/banner
+charge
+
+
+wallet_app_database_wallet:temporary:dg:today:produce
+wallet_app_database_wallet:temporary:dg:all:total:produce
+
+
+17685448
+
+ZSCORE wallet_app_database_wallet:energy:rank  17685448
+ZINCRBY wallet_app_database_wallet:energy:rank -4000 17685450
+
+117.239.38.81:50376
+
+
+traffic 如何通过广告获取收益
+
+http://www.pornhub.com/webmasters/search?id=44bc40f3bc04f65b7a35&search=hard&tags[]=Teen&thumbsize=medium
+
+http://www.pornhub.com/webmasters/search?id=44bc40f3bc04f65b7a35&search=hard&tags[]=Teen&thumbsize=medium
+
+redtube
+tube
+youporn
+xtube
+movies
+extremetube
+
+spank 不能直接获取播放地址 能获取下载地址
+http://www.keezmovies.com/wapi/getVideoById?video_id=763019&output=json
+
+
+https://www.redtube.com?utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_jiedage
+
+https://api.redtube.com/?data=redtube.Videos.getVideoById&video_id=15485&output=json&thumbsize=all
+
+Japanese
+
+http://www.pornhub.com/webmasters/search?id=44bc40f3bc04f65b7a35&search=hard&tags[]= Japanese&thumbsize=medium&lang=ja
+
+http://api.tube8.com/api.php?action=searchVideos&output=json&search=巨乳&thumbsize=all
+
+154.221.21.181
+ssh -i ec2-user@185.251.45.115
+/Users/shj/own_ssh/key/youyou/YouYouXingQiu
+
+we_chat_qr_code_1.png
+http://api.dgame.online
+http://api-manage.dgame.online
